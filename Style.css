@@ -1,0 +1,368 @@
+@charset "utf-8";
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+}
+.container-fluid {
+    background-image: url(images/cool-background.png);
+
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    opacity: 1;
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+
+}
+
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light a{
+	
+}
+
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light a:hover{
+	
+}
+.container-fluid .container {
+
+}
+
+.container #accordion1 footer {
+    text-align: center;
+    text-decoration: underline;
+    background-color: #FFFFFF;
+}
+.container-fluid .container #accordion1 {
+}
+
+.container #accordion1 .row {
+}
+
+
+
+.navbar-nav.mr-auto .nav-item.dropdown #navbarDropdown1 {
+
+}
+.row .col-lg-6 b {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.card footer b {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.card #headingFive1 .mb-0 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.card #headingFour1 .mb-0 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.card #headingThree1 .mb-0 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.card #headingTwo1 .mb-0 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.card #headingOne1 .mb-0 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container-fluid .container .text-center {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.container-fluid .container .text-center.text-uppercase {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.container-fluid .container .text-center.text-capitalize {
+}
+body {
+
+}
+
+
+.carousel-item.active .carousel-caption h5 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.carousel-item.active .carousel-caption p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.nav-item.dropdown .dropdown-menu .dropdown-item {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.card-body center .btn.btn-primary {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F4E298;
+}
+body p {
+}
+form center input {
+}
+b form input {
+    text-decoration: none;
+    float: none;
+    clear: none;
+    opacity: 1;
+    background-color: #F4EDED;
+    -webkit-box-shadow: 0px 0px #FEFEFE;
+    box-shadow: 0px 0px #FEFEFE;
+    background-origin: padding-box;
+    border-color: #FFFFFF;
+}
+.container #orderplacing input {
+  border-radius: 15px;
+	
+    
+}
+.container-fluid .container #orderplacing {
+    border-radius: 20px;
+    background-color: #A2A2A2;
+    padding: 20px;
+    border-color: #000000;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container #orderplacing input {
+}
+.container #orderplacing #fname {
+}
+.container #orderplacing #other {
+    width: 500px;
+    height: 60px;
+    clear: none;
+    float: none;
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+}
+.container #orderplacing #other {
+}
+.container #orderplacing #fname {
+    width: 280px;
+}
+.container #orderplacing #sname {
+    width: 280px;
+}
+.container #orderplacing #comname {
+    width: 450px;
+}
+.container #orderplacing #town {
+    width: 450px;
+}
+.container #orderplacing #postal {
+    width: 450px;
+}
+.container #orderplacing #phone {
+    width: 450px;
+}
+.container #orderplacing #email {
+    width: 450px;
+}
+#orderplacing #additionalFields #ssname {
+    width: 280px;
+}
+#orderplacing #additionalFields #ssaddress {
+
+}
+#orderplacing #additionalFields #stown {
+    width: 450px;
+}
+#orderplacing #additionalFields #spostal {
+    width: 450px;
+}
+#orderplacing #additionalFields #sphone {
+    width: 450px;
+}
+#orderplacing #additionalFields #semail {
+    width: 450px;
+}
+#orderplacing #additionalFields #sfname {
+    width: 280px;
+}
+.container #orderplacing #saddress {
+    width: 220px;
+}
+.container #orderplacing #apartment {
+    width: 230px;
+}
+.container #orderplacing select {
+    border-radius: 10 10 10 10;
+    width: 250px;
+}
+#orderplacing #additionalFields select {
+    width: 250px;
+}
+#orderplacing #additionalFields #ssaddress {
+    width: 220px;
+}
+.container #orderplacing #apartment {
+    width: 220px;
+}
+.container #orderplacing #sapartment {
+    width: 220px;
+}
+.container #orderplacing #submit {
+    width: 150px;
+    height: 50px;
+    background-color: #404040;
+    color: #FFFEFE;
+}
+.container #orderplacing #reset {
+    height: 50px;
+    width: 100px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+#orderplacing #additionalFields #ssapartment {
+    width: 220px;
+}
+.container-fluid .container #orderplacing {
+     background-color: rgba(64, 64, 64, 0.3);
+}
+.container-fluid .container .img-fluid {
+    text-align: center;
+    border: thin none #000000;
+    -webkit-box-shadow: inset 5px 5px;
+    box-shadow: inset 5px 5px;
+}
+.col-lg-2 a img {
+}
+.container #orderplacing #priceRange {
+}
+
+.autocomplete {
+	position: relative;
+    display: inline;
+            }
+
+            .suggestions {
+               position: relative;
+               border: 1px solid #ccc;
+               border-top: none;
+               border-radius: 0 0 4px 4px;
+               width: 300px; /* Adjust the width as needed */
+               max-height: 150px; /* Adjust the maximum height as needed */
+               overflow-y: auto;
+               z-index: 1;
+               left: 50%;
+               top: 50%;
+               transform: translate(-50%, -50%);
+			   display: none;
+            }
+        
+            .suggestions a {	
+              display: inline-block;
+              padding: 8px;
+              text-decoration: none;
+              color: #333;
+            }
+        
+            .suggestions a:hover {
+              background-color: #f2f2f2;
+            }
+.autocomplete center input {
+
+}
+.autocomplete center #searchInput 
+{
+	box-shadow: 0px 0px 2px 1px
+		
+}
+
+.autocomplete center button {
+	box-shadow: 0px 0px 2px 1px
+}
+.container #orderplacing br {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.container #orderplacing h3 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.col-lg-3 center b {
+    color: #616161;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+b a img {
+}
+
+.container-fluid .container h2 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.container-fluid .container h4 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.row .col-lg-3 img {
+    box-shadow: 0px 0px 2px 2px;
+	
+}
+.col-lg-2 a img {
+	box-shadow: 0px 0px 2px 1px;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title.text-center {
+    color: #494949;
+}
+.container #accordion1 .card {
+    background-color: #FFFFFF;
+}
+
+.container1{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+h1{
+	color: #4F4F4F;
+	margin-bottom: 30px;
+}
+
+iframe{
+	width: 100%;
+	height: 500px;
+	
+	
+}
+.container #orderplacing textarea {
+width: 450px;
+}
+
+#reviews-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #review-form {
+            margin-top: 20px;
+        }
+
+        .review {
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+        }
+
+        .review p {
+            margin: 0;
+        }
+
+    .container-fluid .container .text-center.text-capitalize {
+    color: #0A0909;
+    font-style: normal;
+}
+.container-fluid .text-center.text-capitalize {
+    color: #000000;
+    font-style: normal;
+}
+
+.card .row a {
+    color: #000000;
+}
+
